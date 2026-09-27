@@ -1,0 +1,14 @@
+C:\Users\Minh\OneDrive - Saigon University\Desktop\geminihihi\Lab03_Vũ Văn Minh_3124411169\ThucHanh03\bin\Debug\net9.0\ThucHanh03.exe
+C:\Users\Minh\OneDrive - Saigon University\Desktop\geminihihi\Lab03_Vũ Văn Minh_3124411169\ThucHanh03\bin\Debug\net9.0\ThucHanh03.deps.json
+C:\Users\Minh\OneDrive - Saigon University\Desktop\geminihihi\Lab03_Vũ Văn Minh_3124411169\ThucHanh03\bin\Debug\net9.0\ThucHanh03.runtimeconfig.json
+C:\Users\Minh\OneDrive - Saigon University\Desktop\geminihihi\Lab03_Vũ Văn Minh_3124411169\ThucHanh03\bin\Debug\net9.0\ThucHanh03.dll
+C:\Users\Minh\OneDrive - Saigon University\Desktop\geminihihi\Lab03_Vũ Văn Minh_3124411169\ThucHanh03\bin\Debug\net9.0\ThucHanh03.pdb
+C:\Users\Minh\OneDrive - Saigon University\Desktop\geminihihi\Lab03_Vũ Văn Minh_3124411169\ThucHanh03\obj\Debug\net9.0\ThucHanh03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\OneDrive - Saigon University\Desktop\geminihihi\Lab03_Vũ Văn Minh_3124411169\ThucHanh03\obj\Debug\net9.0\ThucHanh03.AssemblyInfoInputs.cache
+C:\Users\Minh\OneDrive - Saigon University\Desktop\geminihihi\Lab03_Vũ Văn Minh_3124411169\ThucHanh03\obj\Debug\net9.0\ThucHanh03.AssemblyInfo.cs
+C:\Users\Minh\OneDrive - Saigon University\Desktop\geminihihi\Lab03_Vũ Văn Minh_3124411169\ThucHanh03\obj\Debug\net9.0\ThucHanh03.csproj.CoreCompileInputs.cache
+C:\Users\Minh\OneDrive - Saigon University\Desktop\geminihihi\Lab03_Vũ Văn Minh_3124411169\ThucHanh03\obj\Debug\net9.0\ThucHanh03.dll
+C:\Users\Minh\OneDrive - Saigon University\Desktop\geminihihi\Lab03_Vũ Văn Minh_3124411169\ThucHanh03\obj\Debug\net9.0\refint\ThucHanh03.dll
+C:\Users\Minh\OneDrive - Saigon University\Desktop\geminihihi\Lab03_Vũ Văn Minh_3124411169\ThucHanh03\obj\Debug\net9.0\ThucHanh03.pdb
+C:\Users\Minh\OneDrive - Saigon University\Desktop\geminihihi\Lab03_Vũ Văn Minh_3124411169\ThucHanh03\obj\Debug\net9.0\ThucHanh03.genruntimeconfig.cache
+C:\Users\Minh\OneDrive - Saigon University\Desktop\geminihihi\Lab03_Vũ Văn Minh_3124411169\ThucHanh03\obj\Debug\net9.0\ref\ThucHanh03.dll

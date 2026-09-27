@@ -1,0 +1,14 @@
+C:\Users\Minh\OneDrive - Saigon University\Desktop\Csharp\Lab02_Vũ Văn Minh_3124411169\bai1.3\bin\Debug\net9.0\bai1.3.exe
+C:\Users\Minh\OneDrive - Saigon University\Desktop\Csharp\Lab02_Vũ Văn Minh_3124411169\bai1.3\bin\Debug\net9.0\bai1.3.deps.json
+C:\Users\Minh\OneDrive - Saigon University\Desktop\Csharp\Lab02_Vũ Văn Minh_3124411169\bai1.3\bin\Debug\net9.0\bai1.3.runtimeconfig.json
+C:\Users\Minh\OneDrive - Saigon University\Desktop\Csharp\Lab02_Vũ Văn Minh_3124411169\bai1.3\bin\Debug\net9.0\bai1.3.dll
+C:\Users\Minh\OneDrive - Saigon University\Desktop\Csharp\Lab02_Vũ Văn Minh_3124411169\bai1.3\bin\Debug\net9.0\bai1.3.pdb
+C:\Users\Minh\OneDrive - Saigon University\Desktop\Csharp\Lab02_Vũ Văn Minh_3124411169\bai1.3\obj\Debug\net9.0\bai1.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\OneDrive - Saigon University\Desktop\Csharp\Lab02_Vũ Văn Minh_3124411169\bai1.3\obj\Debug\net9.0\bai1.3.AssemblyInfoInputs.cache
+C:\Users\Minh\OneDrive - Saigon University\Desktop\Csharp\Lab02_Vũ Văn Minh_3124411169\bai1.3\obj\Debug\net9.0\bai1.3.AssemblyInfo.cs
+C:\Users\Minh\OneDrive - Saigon University\Desktop\Csharp\Lab02_Vũ Văn Minh_3124411169\bai1.3\obj\Debug\net9.0\bai1.3.csproj.CoreCompileInputs.cache
+C:\Users\Minh\OneDrive - Saigon University\Desktop\Csharp\Lab02_Vũ Văn Minh_3124411169\bai1.3\obj\Debug\net9.0\bai1.3.dll
+C:\Users\Minh\OneDrive - Saigon University\Desktop\Csharp\Lab02_Vũ Văn Minh_3124411169\bai1.3\obj\Debug\net9.0\refint\bai1.3.dll
+C:\Users\Minh\OneDrive - Saigon University\Desktop\Csharp\Lab02_Vũ Văn Minh_3124411169\bai1.3\obj\Debug\net9.0\bai1.3.pdb
+C:\Users\Minh\OneDrive - Saigon University\Desktop\Csharp\Lab02_Vũ Văn Minh_3124411169\bai1.3\obj\Debug\net9.0\bai1.3.genruntimeconfig.cache
+C:\Users\Minh\OneDrive - Saigon University\Desktop\Csharp\Lab02_Vũ Văn Minh_3124411169\bai1.3\obj\Debug\net9.0\ref\bai1.3.dll

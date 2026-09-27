@@ -1,0 +1,14 @@
+C:\Users\Minh\OneDrive - Saigon University\Desktop\ping\Lab01_Vũ Văn Minh_3124411169\bai6\bin\Debug\net9.0\bai6.exe
+C:\Users\Minh\OneDrive - Saigon University\Desktop\ping\Lab01_Vũ Văn Minh_3124411169\bai6\bin\Debug\net9.0\bai6.deps.json
+C:\Users\Minh\OneDrive - Saigon University\Desktop\ping\Lab01_Vũ Văn Minh_3124411169\bai6\bin\Debug\net9.0\bai6.runtimeconfig.json
+C:\Users\Minh\OneDrive - Saigon University\Desktop\ping\Lab01_Vũ Văn Minh_3124411169\bai6\bin\Debug\net9.0\bai6.dll
+C:\Users\Minh\OneDrive - Saigon University\Desktop\ping\Lab01_Vũ Văn Minh_3124411169\bai6\bin\Debug\net9.0\bai6.pdb
+C:\Users\Minh\OneDrive - Saigon University\Desktop\ping\Lab01_Vũ Văn Minh_3124411169\bai6\obj\Debug\net9.0\bai6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\OneDrive - Saigon University\Desktop\ping\Lab01_Vũ Văn Minh_3124411169\bai6\obj\Debug\net9.0\bai6.AssemblyInfoInputs.cache
+C:\Users\Minh\OneDrive - Saigon University\Desktop\ping\Lab01_Vũ Văn Minh_3124411169\bai6\obj\Debug\net9.0\bai6.AssemblyInfo.cs
+C:\Users\Minh\OneDrive - Saigon University\Desktop\ping\Lab01_Vũ Văn Minh_3124411169\bai6\obj\Debug\net9.0\bai6.csproj.CoreCompileInputs.cache
+C:\Users\Minh\OneDrive - Saigon University\Desktop\ping\Lab01_Vũ Văn Minh_3124411169\bai6\obj\Debug\net9.0\bai6.dll
+C:\Users\Minh\OneDrive - Saigon University\Desktop\ping\Lab01_Vũ Văn Minh_3124411169\bai6\obj\Debug\net9.0\refint\bai6.dll
+C:\Users\Minh\OneDrive - Saigon University\Desktop\ping\Lab01_Vũ Văn Minh_3124411169\bai6\obj\Debug\net9.0\bai6.pdb
+C:\Users\Minh\OneDrive - Saigon University\Desktop\ping\Lab01_Vũ Văn Minh_3124411169\bai6\obj\Debug\net9.0\bai6.genruntimeconfig.cache
+C:\Users\Minh\OneDrive - Saigon University\Desktop\ping\Lab01_Vũ Văn Minh_3124411169\bai6\obj\Debug\net9.0\ref\bai6.dll

@@ -1,9 +1,7 @@
 using System;
 using System.Collections.Generic;
-
 namespace BaiThucHanhLINQ
 {
-    // Lớp MonHoc theo định nghĩa của bài 4.1
     public class MonHoc
     {
         public string MaMon { get; set; } = "";
@@ -11,8 +9,6 @@ namespace BaiThucHanhLINQ
         public string He { get; set; } = "";
         public byte SoTiet { get; set; }
     }
-
-    // Lớp DuLieu cung cấp nguồn dữ liệu đối tượng
     public class DuLieu
     {
         public static List<MonHoc> DS_Mon()

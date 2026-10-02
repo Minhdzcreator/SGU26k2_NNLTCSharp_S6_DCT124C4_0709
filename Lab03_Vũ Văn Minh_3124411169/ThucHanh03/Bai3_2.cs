@@ -1,6 +1,5 @@
 using System;
 using System.Linq;
-
 namespace BaiThucHanhLINQ
 {
     public class Bai3_2
@@ -11,7 +10,6 @@ namespace BaiThucHanhLINQ
             string[] monAn = { "Bún bò Huế", "Hủ tiếu heo", "Bánh canh", "Bánh mì",
                                "Nước Cà phê", "Mì quảng", "Cơm tấm", "Nước Chanh dây", "Mì xào",
                                "Bún riêu", "Bánh cuốn", "Mì gói", "Bún chả", "Hủ tiếu Nam vang" };
-
             // --- Câu A ---
             // Tìm chiều dài ngắn nhất và dài nhất
             int minLength = monAn.Min(s => s.Length);
@@ -24,11 +22,9 @@ namespace BaiThucHanhLINQ
             var daiNhat = from s in monAn
                           where s.Length == maxLength
                           select s;
-
             Console.WriteLine("Đáp án câu a:");
             Console.WriteLine($"  - Phần tử ngắn nhất (độ dài {minLength}): {string.Join(", ", nganNhat)}");
             Console.WriteLine($"  - Phần tử dài nhất (độ dài {maxLength}): {string.Join(", ", daiNhat)}");
-
             // --- Câu B ---
             // Phân nhóm theo từ đầu tiên (tách chuỗi bằng khoảng trắng và lấy phần tử đầu)
             var cauB = from s in monAn
@@ -44,7 +40,6 @@ namespace BaiThucHanhLINQ
                     Console.WriteLine($"      - {mon}");
                 }
             }
-
             // --- Câu C ---
             // Đếm số phần tử có từ đầu tiên là "Bánh"
             int demBanh = monAn.Count(s => s.StartsWith("Bánh"));

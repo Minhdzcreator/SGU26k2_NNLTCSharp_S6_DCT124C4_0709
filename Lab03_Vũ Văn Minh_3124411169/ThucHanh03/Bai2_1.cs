@@ -1,6 +1,5 @@
 using System;
 using System.Linq;
-
 namespace BaiThucHanhLINQ
 {
     public class Bai2_1()
